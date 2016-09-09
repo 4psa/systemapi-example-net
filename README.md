@@ -1,5 +1,4 @@
-# 4PSA VoipNow 
-## SystemAPI Client for .NET version 2.0
+# 4PSA VoipNow SystemAPI Client for .NET version 2.0
 
 ### Introduction
 
